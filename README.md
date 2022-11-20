@@ -41,6 +41,12 @@ pyenv activate myproject
 pyenv deactivate
 pyenv versions
 
+pip list
+ping install pywinrm
+
+
+
+
 
 
 
