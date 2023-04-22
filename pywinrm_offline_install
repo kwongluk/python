@@ -1,0 +1,44 @@
+
+
+        pip download pywinrm --no-deps -d ./
+  147   pip download pip --no-deps -d ./
+  149   pip download wheel --no-deps -d ./
+  150   pip download xmltodict --no-deps -d ./
+  151   pip download ntlm_auth    --no-deps -d ./
+  152   pip download  chardet   --no-deps -d ./
+  153   pip download charset-normalizer    --no-deps -d ./
+  154   pip download certifi    --no-deps -d ./
+  155   pip download urllib3    --no-deps -d ./
+  156   pip download  idna   --no-deps -d ./
+  157   pip download  requests   --no-deps -d ./
+  158   pip download  pycparser   --no-deps -d ./
+  159   pip download  cffi   --no-deps -d ./
+  160   pip download   cryptography  --no-deps -d ./
+  161   pip download  requests_ntlm   --no-deps -d ./
+  162   pip download six    --no-deps -d ./
+  163   pip download  pywinrm   --no-deps -d ./
+  189  pip download  pyspnego  --no-deps -d ./
+  190  pip download  pyOpenSSL  --no-deps -d ./
+  191  pip download  pyasn1  --no-deps -d ./
+  192  pip download  requests_credssp  --no-deps -d ./
+
+
+  621  python3.9 pip-23.1-py3-none-any.whl/pip install --no-index pip-23.1-py3-none-any.whl
+  623  pip install wheel-0.40.0-py3-none-any.whl
+  624  pip install xmltodict-0.13.0-py2.py3-none-any.whl
+  625  pip install ntlm_auth-1.5.0-py2.py3-none-any.whl
+  626  pip install chardet-5.1.0-py3-none-any.whl
+  627  pip install charset_normalizer-3.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  628  pip install certifi-2022.12.7-py3-none-any.whl
+  629  pip install urllib3-1.26.15-py2.py3-none-any.whl
+  630  pip install idna-3.4-py3-none-any.whl
+  631  pip install requests
+  632  pip install pycparser-2.21-py2.py3-none-any.whl
+  633  pip intall cffi
+  634  pip intall cffi-1.15.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  635  pip install cffi-1.15.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  636  pip install cryptography-40.0.2-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  637  pip install requests_ntlm-1.2.0-py3-none-any.whl
+  638  pip install  six
+  639  pip check
+  640  pip install pywinrm-0.4.3-py2.py3-none-any.whl
